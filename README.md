@@ -1,6 +1,6 @@
 # Hi , I'm Swayam Dakare
 
-**Full-Stack & DevOps Engineer & Cloud Engineer☁️ | AWS • Docker • Kubernetes 
+Full-Stack & DevOps Engineer & Cloud Engineer☁️ | AWS • Docker • Kubernetes 
 
 `Building reliable cloud systems & full-stack apps`
 
