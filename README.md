@@ -8,10 +8,10 @@
 
 ## 🚀 About Me
 
-* 🎓 B.Tech in Computer Science & Engineering graduate[cite: 1]
-* ☁️ Hands-on with Cloud & DevOps—automating deployments, infra, and Linux servers[cite: 1]
-* 🛠️ Enjoy connecting backend APIs, AI services, and container workflows into real products[cite: 1]
-* 🌱 Always sharpening cloud architecture, Linux administration, and systems fundamentals[cite: 1]
+* 🎓 B.Tech in Computer Science & Engineering graduate
+* ☁️ Hands-on with Cloud & DevOps—automating deployments, infra, and Linux servers
+* 🛠️ Enjoy connecting backend APIs, AI services, and container workflows into real products
+* 🌱 Always sharpening cloud architecture, Linux administration, and systems fundamentals
 * 📫 Reach out anytime at: **swayamdakare1@gmail.com**
 
 ---
